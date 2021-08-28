@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.eff50b89.chunk.css",
-    "main.js": "/static/js/main.02d6dd2c.chunk.js",
-    "main.js.map": "/static/js/main.02d6dd2c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e41a846a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e41a846a.js.map",
-    "static/js/2.0ce063b6.chunk.js": "/static/js/2.0ce063b6.chunk.js",
-    "static/js/2.0ce063b6.chunk.js.map": "/static/js/2.0ce063b6.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.eff50b89.chunk.css.map": "/static/css/main.eff50b89.chunk.css.map",
-    "static/js/2.0ce063b6.chunk.js.LICENSE.txt": "/static/js/2.0ce063b6.chunk.js.LICENSE.txt",
-    "static/media/close-icon.00fadec7.svg": "/static/media/close-icon.00fadec7.svg",
-    "static/media/external-link-icon.b89b9ffe.svg": "/static/media/external-link-icon.b89b9ffe.svg",
-    "static/media/farmerMarketPlace.0eeb576f.png": "/static/media/farmerMarketPlace.0eeb576f.png",
-    "static/media/github-icon.8f0e9f02.svg": "/static/media/github-icon.8f0e9f02.svg",
-    "static/media/logo.d446430a.png": "/static/media/logo.d446430a.png",
-    "static/media/menu-icon.6ed75b5c.svg": "/static/media/menu-icon.6ed75b5c.svg",
-    "static/media/pointing-up.4805ffed.png": "/static/media/pointing-up.4805ffed.png",
-    "static/media/rockon.4ec24968.png": "/static/media/rockon.4ec24968.png",
-    "static/media/wave.88670973.png": "/static/media/wave.88670973.png"
+    "main.css": "/portfolio/static/css/main.eff50b89.chunk.css",
+    "main.js": "/portfolio/static/js/main.daada358.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.daada358.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.5baa32f8.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.5baa32f8.js.map",
+    "static/js/2.0ce063b6.chunk.js": "/portfolio/static/js/2.0ce063b6.chunk.js",
+    "static/js/2.0ce063b6.chunk.js.map": "/portfolio/static/js/2.0ce063b6.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.eff50b89.chunk.css.map": "/portfolio/static/css/main.eff50b89.chunk.css.map",
+    "static/js/2.0ce063b6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0ce063b6.chunk.js.LICENSE.txt",
+    "static/media/close-icon.00fadec7.svg": "/portfolio/static/media/close-icon.00fadec7.svg",
+    "static/media/external-link-icon.b89b9ffe.svg": "/portfolio/static/media/external-link-icon.b89b9ffe.svg",
+    "static/media/farmerMarketPlace.0eeb576f.png": "/portfolio/static/media/farmerMarketPlace.0eeb576f.png",
+    "static/media/github-icon.8f0e9f02.svg": "/portfolio/static/media/github-icon.8f0e9f02.svg",
+    "static/media/logo.d446430a.png": "/portfolio/static/media/logo.d446430a.png",
+    "static/media/menu-icon.6ed75b5c.svg": "/portfolio/static/media/menu-icon.6ed75b5c.svg",
+    "static/media/pointing-up.4805ffed.png": "/portfolio/static/media/pointing-up.4805ffed.png",
+    "static/media/rockon.4ec24968.png": "/portfolio/static/media/rockon.4ec24968.png",
+    "static/media/wave.88670973.png": "/portfolio/static/media/wave.88670973.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e41a846a.js",
+    "static/js/runtime-main.5baa32f8.js",
     "static/js/2.0ce063b6.chunk.js",
     "static/css/main.eff50b89.chunk.css",
-    "static/js/main.02d6dd2c.chunk.js"
+    "static/js/main.daada358.chunk.js"
   ]
 }
