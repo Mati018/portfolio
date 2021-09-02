@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.eff50b89.chunk.css",
-    "main.js": "/portfolio/static/js/main.f6af498e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f6af498e.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.a83f0bcb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a83f0bcb.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.7809871f.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.7809871f.js.map",
     "static/js/2.5c7f6587.chunk.js": "/portfolio/static/js/2.5c7f6587.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.eff50b89.chunk.css.map": "/portfolio/static/css/main.eff50b89.chunk.css.map",
     "static/js/2.5c7f6587.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5c7f6587.chunk.js.LICENSE.txt",
     "static/media/close-icon.00fadec7.svg": "/portfolio/static/media/close-icon.00fadec7.svg",
+    "static/media/emojiInterPreter.bb4e07e4.png": "/portfolio/static/media/emojiInterPreter.bb4e07e4.png",
     "static/media/external-link-icon.b89b9ffe.svg": "/portfolio/static/media/external-link-icon.b89b9ffe.svg",
     "static/media/farmerMarketPlace.0eeb576f.png": "/portfolio/static/media/farmerMarketPlace.0eeb576f.png",
     "static/media/github-icon.8f0e9f02.svg": "/portfolio/static/media/github-icon.8f0e9f02.svg",
@@ -24,6 +25,6 @@
     "static/js/runtime-main.7809871f.js",
     "static/js/2.5c7f6587.chunk.js",
     "static/css/main.eff50b89.chunk.css",
-    "static/js/main.f6af498e.chunk.js"
+    "static/js/main.a83f0bcb.chunk.js"
   ]
 }
