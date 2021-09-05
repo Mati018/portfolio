@@ -40,7 +40,7 @@ const featuredProjectsList = [
         tagName: "CSS",
       }
     ],
-    externalLink: "",
+    externalLink: "https://mati018.github.io/emoji_interpreter/",
     githubLink: "https://github.com/Mati018/emoji_interpreter",
     githubAvailability: "yes",
   }
