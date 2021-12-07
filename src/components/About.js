@@ -9,7 +9,7 @@ export default function About() {
         <p>
           Hello! I’m Matiurrehman from Dharwad.
           <br />
-          Currently studying
+          I have completed
           <span className="font-semibold">
             &nbsp;Computer Science & Engineering&nbsp;
           </span>

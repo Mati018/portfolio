@@ -27,7 +27,16 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="text-link underline-anim"
           >
-            facebook
+            Facebook
+          </a>
+          ,&nbsp;
+          <a
+            href="https://www.instagram.com/_vulpes_00/?utm_medium=copy_link"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-link underline-anim"
+          >
+            Instagram
           </a>
           ,&nbsp;
           <a
@@ -36,7 +45,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="text-link underline-anim"
           >
-            twitter
+            Twitter
           </a>
           &nbsp;and&nbsp;
           <a
@@ -45,7 +54,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="text-link underline-anim"
           >
-            linkedin
+            Linkedin
           </a>
           .
         </p>

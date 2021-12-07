@@ -25,8 +25,13 @@ export default function Introduction() {
               <button className="btn btn-blue">view my projects</button>
             </HashLink>
             <a href="mailto:matiurrehman.meersayed@gmail.com" className="ml-0 sm:ml-12">
-              <button className="btn btn-gray mt-3 md:mt-0">
+              <button className="btn btn-blue mt-3 md:mt-0">
                 get in touch
+              </button>
+            </a>
+            <a href="https://drive.google.com/file/d/1l9RUYezhbQokUUL6wTm_FMf8eElhcGu6/view?usp=sharing" target="_blank" className="ml-0 sm:ml-12">
+              <button className="btn btn-blue">
+                My Resume
               </button>
             </a>
           </div>
